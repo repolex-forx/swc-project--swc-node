@@ -103,6 +103,422 @@
       ],
       "ast": [
         "aggregate/ast/41dc95797d26bb0bb4b0f92770657b3010e4364e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/41dc95797d26bb0bb4b0f92770657b3010e4364e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@babel/core",
+          "ecosystem": "NPM",
+          "version": "7.28.3",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "ef155f5ca83c73dbc1ea8d95216830b7dc3b0ac2",
+          "githubTag": "v7.28.3",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/plugin-transform-typescript",
+          "ecosystem": "NPM",
+          "version": "7.28.0",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "ccc5fae96f5281ae1ee49fac74c7c275b9111ead",
+          "githubTag": "v7.28.0",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/preset-env",
+          "ecosystem": "NPM",
+          "version": "7.28.3",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "ef155f5ca83c73dbc1ea8d95216830b7dc3b0ac2",
+          "githubTag": "v7.28.3",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/preset-typescript",
+          "ecosystem": "NPM",
+          "version": "7.27.1",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "eebd3a06021c13d335b5b0bd79734df3abbea678",
+          "githubTag": "v7.27.1",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@swc-node/core",
+          "ecosystem": "NPM",
+          "version": "workspace:*",
+          "githubOrg": "swc-project",
+          "githubRepo": "swc-node",
+          "githubUrl": "git+https://github.com/swc-project/swc-node.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@swc-node/jest",
+          "ecosystem": "NPM",
+          "version": "workspace:*",
+          "githubOrg": "swc-project",
+          "githubRepo": "swc-node",
+          "githubUrl": "git+https://github.com/swc-project/swc-node.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@swc-node/register",
+          "ecosystem": "NPM",
+          "version": "workspace:*",
+          "githubOrg": "swc-project",
+          "githubRepo": "swc-node",
+          "githubUrl": "git+https://github.com/swc-project/swc-node.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/babel__core",
+          "ecosystem": "NPM",
+          "version": "7.20.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/lodash",
+          "ecosystem": "NPM",
+          "version": "4.17.20",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "24.3.0",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/sinon",
+          "ecosystem": "NPM",
+          "version": "17.0.4",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ava",
+          "ecosystem": "NPM",
+          "version": "6.4.1",
+          "githubOrg": "avajs",
+          "githubRepo": "ava",
+          "githubCommit": "603d7ca2ada70f3e9e79ee5002a509f0646cb37c",
+          "githubTag": "v6.4.1",
+          "githubUrl": "git+https://github.com/avajs/ava.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "benchmark",
+          "ecosystem": "NPM",
+          "version": "2.1.4",
+          "githubOrg": "bestiejs",
+          "githubRepo": "benchmark.js",
+          "githubCommit": "061282627fdb7867d560729ca34b710fe8c48464",
+          "githubTag": "2.1.4",
+          "githubUrl": "git+https://github.com/bestiejs/benchmark.js.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "colorette",
+          "ecosystem": "NPM",
+          "version": "2.0.20",
+          "githubOrg": "jorgebucaran",
+          "githubRepo": "colorette",
+          "githubCommit": "811fd2f255ed6b3d56b5977353d32dae13088b65",
+          "githubTag": "2.0.20",
+          "githubUrl": "git+https://github.com/jorgebucaran/colorette.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "cross-env",
+          "ecosystem": "NPM",
+          "version": "10.0.0",
+          "githubOrg": "kentcdodds",
+          "githubRepo": "cross-env",
+          "githubCommit": "8635e80e81080f3e8f83b514565dc6bfecf6760c",
+          "githubTag": "v10.0.0",
+          "githubUrl": "git+https://github.com/kentcdodds/cross-env.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "esbuild",
+          "ecosystem": "NPM",
+          "version": "0.25.9",
+          "githubOrg": "evanw",
+          "githubRepo": "esbuild",
+          "githubCommit": "195e05c16f03a341390feef38b8ebf17d3075e14",
+          "githubTag": "v0.25.9",
+          "githubUrl": "git+https://github.com/evanw/esbuild.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "9.1.7",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "799e84b716d0e03db80db5d5b0dcdd15b9d555fc",
+          "githubTag": "v9.1.7",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jest",
+          "ecosystem": "NPM",
+          "version": "30.0.5",
+          "githubOrg": "jestjs",
+          "githubRepo": "jest",
+          "githubCommit": "22236cf58b66039f81893537c90dee290bab427f",
+          "githubTag": "v30.0.5",
+          "githubUrl": "git+https://github.com/jestjs/jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lerna",
+          "ecosystem": "NPM",
+          "version": "8.2.3",
+          "githubOrg": "lerna",
+          "githubRepo": "lerna",
+          "githubCommit": "25331af97160e2b3ddc6cb84633af6ea5c0a4b47",
+          "githubTag": "v8.2.3",
+          "githubUrl": "git+https://github.com/lerna/lerna.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "16.1.5",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "15369c2d79954558a980589c4b167b68e27ccdbb",
+          "githubTag": "v16.1.5",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lodash",
+          "ecosystem": "NPM",
+          "version": "4.17.21",
+          "githubOrg": "lodash",
+          "githubRepo": "lodash",
+          "githubCommit": "f299b52f39486275a9e6483b60a410e06520c538",
+          "githubTag": "4.17.21",
+          "githubUrl": "git+https://github.com/lodash/lodash.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "oxlint",
+          "ecosystem": "NPM",
+          "version": "1.12.0",
+          "githubOrg": "oxc-project",
+          "githubRepo": "oxc",
+          "githubUrl": "git+https://github.com/oxc-project/oxc",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.6.2",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "7a8b05f41574633fd3af5298f3eeaf33567ad3d3",
+          "githubTag": "3.6.2",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "react",
+          "ecosystem": "NPM",
+          "version": "19.1.1",
+          "githubOrg": "react",
+          "githubRepo": "react",
+          "githubCommit": "02ef49580922f87180f32618b9d1c70b75b968b7",
+          "githubTag": "v19.1.1",
+          "githubUrl": "git+https://github.com/react/react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rxjs",
+          "ecosystem": "NPM",
+          "version": "7.8.2",
+          "githubOrg": "reactivex",
+          "githubRepo": "rxjs",
+          "githubCommit": "e5351d02e225e275ac0e497c7b66eaa5f0c88791",
+          "githubTag": "7.8.2",
+          "githubUrl": "git+https://github.com/reactivex/rxjs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sinon",
+          "ecosystem": "NPM",
+          "version": "21.0.0",
+          "githubOrg": "sinonjs",
+          "githubRepo": "sinon",
+          "githubCommit": "52b0d97a0ff32888a26941325b9dc0a059fdf739",
+          "githubTag": "v21.0.0",
+          "githubUrl": "git+https://github.com/sinonjs/sinon.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tslib",
+          "ecosystem": "NPM",
+          "version": "2.8.1",
+          "githubOrg": "Microsoft",
+          "githubRepo": "tslib",
+          "githubCommit": "d72d6f70b36286bc3f94a3dda1e64dcb568b1370",
+          "githubTag": "v2.8.1",
+          "githubUrl": "git+https://github.com/Microsoft/tslib.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.9.2",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "5be33469d551655d878876faa9e30aa3b49f8ee9",
+          "githubTag": "v5.9.2",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lib.es2015.collection.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es5.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.core.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.iterable.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.symbol.wellknown.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2016.array.include.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.esnext.collection.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2022.error.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2017.string.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2019.string.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2020.string.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2015.promise.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.dom.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2018.promise.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2019.object.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.es2017.object.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        }
       ]
     }
   ],

@@ -1,0 +1,11 @@
+{
+  "org": "swc-project",
+  "repo": "swc-node",
+  "versions": [
+    {
+      "commit": "41dc95797d26bb0bb4b0f92770657b3010e4364e",
+      "tag": "@swc-node/sourcemap-support@0.6.1",
+      "parsed_at": "2026-11-23T19:40:13.048444+00:00"
+    }
+  ]
+}
